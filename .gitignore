@@ -1,0 +1,41 @@
+# IDE files
+*.iml
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+
+# Build files
+/target/
+/build/
+/out/
+/bin/
+*.class
+/classes/
+
+# Dependency directories
+/lib/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# LWJGL native libraries
+/natives/
+*.dll
+*.so
+*.dylib
+
+# Backup files
+*~
+*.bak
+*.swp
